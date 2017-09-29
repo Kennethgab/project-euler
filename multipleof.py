@@ -1,5 +1,4 @@
-
-
+# sums up every multiple of 3 and 5.
 def multiple_of(n):
     sum = 0
 
